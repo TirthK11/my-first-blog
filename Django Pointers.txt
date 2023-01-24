@@ -1,1 +1,4 @@
 Remember to run everything in the virtualenv. If you don't see a prefix (myvenv) in your console, you need to activate your virtualenv. We explained how to do that in the Django installation chapter in the Working with virtualenv part. Typing myvenv\Scripts\activate on Windows or source myvenv/bin/activate on Mac OS X or Linux will do this for you.
+
+
+(myvenv) ~/djangogirls$ python manage.py runserver
